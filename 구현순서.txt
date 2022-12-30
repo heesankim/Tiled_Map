@@ -12,14 +12,14 @@
 [O] Layering and Placement of Trees
 [O] Landscape Details
 [O] Collisions and Map Boundaries
-[] Foreground Layers (이거 집 지붕뒤? 로 지나가게끔 하는 로직인데 잘 모르겠음)
+[O] Foreground Layers (이거 집 지붕뒤? 로 지나가게끔 하는 로직인데 잘 모르겠음)
 [O] Exporting Layers for Project Import -> png 파일로 export 하는 것임
 
 # Player and Map Development:
 [O] Project setup 
 [O] Import and render Map
-[] Player Creation
-[] Move player through map on keydown
+[O] Player Creation
+[O] Move player through map on keydown
 [] Player-to-map-boundary collisions
 [] Foreground objects
 [] Player movement animation
