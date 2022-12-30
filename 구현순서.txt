@@ -1,0 +1,26 @@
+// 타일식 지도 편집기로 지도 만들자!!
+// 자바스크립트와 캔버스 사용
+
+# Map Creation with Tiled Map Editor:
+[O] Downloads and Setup
+  [O] Find assets
+  [O] Download Tiled
+  [O] Import into project
+[O] Tile Layering for Ocean and Landmasses
+[O] Tile Layering for a Plateau
+[O] Tile Layering for a house
+[O] Layering and Placement of Trees
+[O] Landscape Details
+[O] Collisions and Map Boundaries
+[] Foreground Layers (이거 집 지붕뒤? 로 지나가게끔 하는 로직인데 잘 모르겠음)
+[O] Exporting Layers for Project Import -> png 파일로 export 하는 것임
+
+# Player and Map Development:
+[O] Project setup 
+[O] Import and render Map
+[] Player Creation
+[] Move player through map on keydown
+[] Player-to-map-boundary collisions
+[] Foreground objects
+[] Player movement animation
+배경음악 재생도 좋음
